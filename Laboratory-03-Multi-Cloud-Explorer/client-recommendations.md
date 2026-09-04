@@ -58,7 +58,7 @@ Para sa isang company na nagde-develop ng AI at Machine Learning applications, s
 
 **Scenario:** A multinational online shopping company serves customers around the world and requires highly available infrastructure with automatic scaling.
 
-**Recommended Platform:*
+**Recommended Platform:**
 
 AWS
 
