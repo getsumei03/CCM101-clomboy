@@ -9,8 +9,8 @@
 | Storage Service | S3 | Blob Storage | Cloud Storage |
 | Networking Service | VPC | Virtual Network (VNet) | Virtual Private Cloud (VPC) |
 | Identity Service | IAM | Microsoft Entra ID (dating Azure AD) | Cloud IAM |
-| Primary Strength | Pinakamalawak na service catalog | Microsoft ecosystem integration | Data analytics at AI |
-| Ideal Organizations | Startups hanggang malalaking enterprise na kailangan ng malawak na options | Kumpanyang gumagamit na ng Microsoft products | Kumpanyang malakas sa data-driven o AI-based operations |
+| Primary Strength | Pinaka-wide na range ng services | Microsoft ecosystem integration | Data analytics at AI |
+| Ideal Organizations | Startups hanggang malalaking enterprise na kailangan ng malawak na options | Company na gumagamit na ng Microsoft products | Company na strong sa data-driven or AI-based operations |
 
 ## Reflection Questions
 
@@ -29,3 +29,13 @@ For AI, si Google Cloud Platform yung mas known dahil sa tools like BigQuery at 
 **4. Which cloud platform would you personally choose and why?**
 
 Personally, I would choose AWS kasi mas marami siyang services na pwedeng pagpilian, especially kung mag-start ako ng sariling project or business. Mas gusto ko rin yung flexibility niya since pwede akong pumili ng different services depending sa kailangan ng project. Plus, marami na ring resources and tutorials about AWS, so mas easy siyang aralin habang nag-i-improve pa ako.
+
+## Service-Matching Table
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | EC2 | Virtual Machines | Compute Engine |
+| Object Storage | S3 | Blob Storage | Cloud Storage |
+| Identity Management | IAM | Microsoft Entra ID | Cloud IAM |
+| SQL Database | RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | EKS (Elastic Kubernetes Service) | AKS (Azure Kubernetes Service) | GKE (Google Kubernetes Engine) |
