@@ -71,3 +71,14 @@ Para sa isang global e-commerce company na may customers from different parts of
 - Amazon EC2 with Auto Scaling – para automatic na madagdagan or mabawasan yung compute resources depende sa traffic ng website.
 - Amazon CloudFront – para mas mabilis ma-deliver yung website content sa customers kahit nasa iba’t ibang parts ng world.
 - Amazon RDS – para sa reliable and scalable database na mag-store ng transactions at customer data.
+
+## Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | Pay-as-you-go pricing at malawak na service catalog para sa scalability habang lumalaki ang negosyo |
+| Enterprise Organization | AWS | Pinaka-matagal na sa market, pinaka-malawak na infrastructure at track record sa enterprise-scale operations |
+| Microsoft Environment | Microsoft Azure | Direktang integration sa Windows Server, Microsoft 365, at Active Directory |
+| AI / Machine Learning | Google Cloud Platform | Malakas sa data analytics, may specialized AI tools tulad ng BigQuery at Vertex AI |
+| Kubernetes Deployment | Google Cloud Platform | Sila ang nagpasimula ng Kubernetes, kaya malakas sa container orchestration gamit ang GKE |
+| Global Web Application | AWS | Pinaka-malawak na global infrastructure (39 regions, 124+ AZs) para sa mababang latency sa buong mundo |
