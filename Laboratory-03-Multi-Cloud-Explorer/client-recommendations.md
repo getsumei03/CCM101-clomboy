@@ -76,9 +76,9 @@ Para sa isang global e-commerce company na may customers from different parts of
 
 | Business Requirement | Recommended Platform | Justification |
 |---|---|---|
-| Startup Company | AWS | Pay-as-you-go pricing at malawak na service catalog para sa scalability habang lumalaki ang negosyo |
-| Enterprise Organization | AWS | Pinaka-matagal na sa market, pinaka-malawak na infrastructure at track record sa enterprise-scale operations |
-| Microsoft Environment | Microsoft Azure | Direktang integration sa Windows Server, Microsoft 365, at Active Directory |
-| AI / Machine Learning | Google Cloud Platform | Malakas sa data analytics, may specialized AI tools tulad ng BigQuery at Vertex AI |
-| Kubernetes Deployment | Google Cloud Platform | Sila ang nagpasimula ng Kubernetes, kaya malakas sa container orchestration gamit ang GKE |
-| Global Web Application | AWS | Pinaka-malawak na global infrastructure (39 regions, 124+ AZs) para sa mababang latency sa buong mundo |
+| Startup Company | AWS | Pay-as-you-go pricing at maraming services na pwedeng i-scale habang lumalaki yung business |
+| Enterprise Organization | AWS | Matagal na sa market, malaking infrastructure, at may solid track record sa enterprise operations |
+| Microsoft Environment | Microsoft Azure | Directly integrated sa Windows Server, Microsoft 365, at Active Directory |
+| AI / Machine Learning | Google Cloud Platform | Strong sa data analytics, with specialized AI tools like BigQuery at Vertex AI |
+| Kubernetes Deployment | Google Cloud Platform | Sila ang nag-start ng Kubernetes, kaya strong din sa container orchestration gamit ang GKE |
+| Global Web Application | AWS | Pinaka-wide na global infrastructure (39 regions, 124+ AZs) para sa faster access worldwide |
