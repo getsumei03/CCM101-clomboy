@@ -10,4 +10,4 @@ I now picture a bucket as a giant labeled bin in the cloud with no real folders 
 
 I assume enterprises survive crashes by never trusting one disk: MinIO erasure coding spreads shards across drives and nodes, plus cross-region replication and versioned backups, so losing a physical server just triggers a rebuild from remaining pieces. My Linux confidence also jumped — `docker ps`, reading logs, mapping ports, and using the Ports tab to reach 9001 no longer feels like magic. My portfolio now links theory in Lab 04 to stateful reality in Lab 05, which feels like actual data-engineering progress rather than just notes.
 
-*Word count: ~300*
+
