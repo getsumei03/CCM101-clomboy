@@ -10,4 +10,3 @@ Deleting with `docker rm nginx-lab04` was also eye-opening. After removal `docke
 
 For DevOps teamwork, I think this removes a lot of friction. Developers freeze dependencies into an image, operations runs that exact image anywhere, so the classic ours works but prod fails excuse fades. Both sides look at the same Dockerfile and run flags instead of long setup wikis. My previous labs were mostly concepts and comparisons, but this one gave me runnable proof with logs and screenshots. My portfolio now reads less like notes and more like I can actually ship and clean up a service, which is the shift from student to cloud-native thinking I wanted.
 
-*Word count: ~310*
